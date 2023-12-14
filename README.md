@@ -1,5 +1,5 @@
 - 👋 Glad you find me. I’m @YogaWang7
-- 👀 This is actually my GitHub account specific for github.io.
+- 👀 The projects here have been collated to the best of my ability. Please have fun.
 - ✨ https://yogawang7.github.io/ 
 
 <!---
